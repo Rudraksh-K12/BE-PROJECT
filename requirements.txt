@@ -1,0 +1,8 @@
+# front-end
+streamlit==1.36.0
+
+# content extraction
+beautifulsoup4==4.12.3
+
+# database
+tinydb==4.8.0

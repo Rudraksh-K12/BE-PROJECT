@@ -6,3 +6,6 @@ beautifulsoup4==4.12.3
 
 # database
 tinydb==4.8.0
+
+#server-state for remember me 
+streamlit-server-state==0.17.1
